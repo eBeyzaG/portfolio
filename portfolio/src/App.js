@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
-import { ReactComponent as GithubLogo } from './github-mark.svg'
 
 
 function App() {
@@ -86,7 +85,7 @@ function App() {
 
         <br></br>
 
-        <p>I am currently persuing my Master's Degree in Computer Engineering.</p>
+        <p>I am currently pursuing my Master's Degree in Computer Engineering.</p>
         <p>I mainly study on deep learning for my studies in university and I work on projects with React & Django in my free time.</p>
         <p>Here I display some of my projects, more projects are in my Github.</p>
 
