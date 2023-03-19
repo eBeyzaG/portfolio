@@ -104,7 +104,7 @@ function App() {
 
         <div className='flex flex-wrap flex-col-2 justify-between'>
           {showWorks.map((work) => (
-            <div key={work.title} className='my-5 p-2 mr-4  bg-violet-50 text-slate-800 w-5/12 h-96 rounded-md '>
+            <div key={work.title} className='my-5 p-2 mr-4  bg-slate-50 text-slate-800 w-5/12 h-96 rounded-md '>
 
               <h1 className='text-center bg-slate-200 h-10 rounded-t-none mt-0 pt-0 rounded-lg pl-1 text-3xl '>{work.title}</h1>
 
